@@ -1,0 +1,52 @@
+html {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+body {
+    padding: 0 2em;
+}
+a {
+    color: turquoise;
+    text-decoration: none;
+}
+
+a#more {
+    color: purple;
+    padding: 0 .5em;
+
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    margin: .5em 0;
+}
+
+div#container>div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+div#feed {
+    width: 25em;
+    height: 25em;
+    margin: 1em;
+    background-color: #ddd;
+    border: 5px solid #bbb;
+    box-sizing: border-box;
+}
+
+div#news {
+    width: calc(100% - 27.5em);
+}
+
+div#news div, div#legislation div {
+    padding: 0 .5em;
+    padding-bottom: 1.25em;
+}
+
+span {
+    float: right;
+}

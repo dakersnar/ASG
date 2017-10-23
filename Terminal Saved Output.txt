@@ -1,0 +1,246 @@
+Last login: Mon Sep 11 17:32:22 on console
+dhcp-10-105-103-103:~ dakersnar$ pwd
+/Users/dakersnar
+dhcp-10-105-103-103:~ dakersnar$ ls
+Applications			Downloads			Pictures			jagex_cl_runescape_LIVE.dat
+Blizzard			Library				Public				jagexappletviewer.preferences
+Desktop				Movies				eclipse				jagexcache
+Documents			Music				jagex_cl_oldschool_LIVE.dat	random.dat
+dhcp-10-105-103-103:~ dakersnar$ cd
+dhcp-10-105-103-103:~ dakersnar$ cd Desktop
+dhcp-10-105-103-103:Desktop dakersnar$ ls
+2017_EA1_Fall_Course_Schedule.html						Screen Shot 2017-10-05 at 9.15.10 PM.png
+DTC_fq17_graphics_hw_1.pdf							Screen Shot 2017-10-09 at 11.08.56 AM.png
+GIT										Screenshots
+Game										Stephen J. Chapman Essentials of MATLAB Programming, Second Edition    2008.pdf
+John's final project								Tutorial_1.pdf
+Lectures_1_2.pdf								Twitch Mini Player
+Linear_Algebra_and_Its_Applications_5th.pdf					appendix_C.pdf
+Misc										chapter_01.pdf
+Photos										chapter_02.pdf
+Problem Set 0.docx								chapter_12.pdf
+Resume2017Fall.pdf								chapter_13.pdf
+Schedule									chapter_16.pdf
+Screen Shot 2017-09-24 at 10.32.07 PM.png					chapter_17.pdf
+Screen Shot 2017-09-24 at 11.54.53 PM.png					chapter_18.pdf
+Screen Shot 2017-09-24 at 4.21.14 PM.png					emails
+Screen Shot 2017-09-27 at 1.09.50 PM.png					fabulous_foamcore.pdf
+Screen Shot 2017-09-27 at 2.06.24 PM.png					hw1.pdf
+Screen Shot 2017-09-27 at 2.06.51 PM.png					racket-6.10.1-x86_64-macosx.dmg
+Screen Shot 2017-09-27 at 5.17.56 PM.png					tutorial1.html
+Screen Shot 2017-09-27 at 5.52.59 PM.png					workspace
+dhcp-10-105-103-103:Desktop dakersnar$ pwd
+/Users/dakersnar/Desktop
+dhcp-10-105-103-103:Desktop dakersnar$ cd ..
+dhcp-10-105-103-103:~ dakersnar$ pwd
+/Users/dakersnar
+dhcp-10-105-103-103:~ dakersnar$ cd Desktop/
+dhcp-10-105-103-103:Desktop dakersnar$ ls
+2017_EA1_Fall_Course_Schedule.html						Screen Shot 2017-10-05 at 9.15.10 PM.png
+DTC_fq17_graphics_hw_1.pdf							Screen Shot 2017-10-09 at 11.08.56 AM.png
+GIT										Screenshots
+Game										Stephen J. Chapman Essentials of MATLAB Programming, Second Edition    2008.pdf
+John's final project								Tutorial_1.pdf
+Lectures_1_2.pdf								Twitch Mini Player
+Linear_Algebra_and_Its_Applications_5th.pdf					appendix_C.pdf
+Misc										chapter_01.pdf
+Photos										chapter_02.pdf
+Problem Set 0.docx								chapter_12.pdf
+Resume2017Fall.pdf								chapter_13.pdf
+Schedule									chapter_16.pdf
+Screen Shot 2017-09-24 at 10.32.07 PM.png					chapter_17.pdf
+Screen Shot 2017-09-24 at 11.54.53 PM.png					chapter_18.pdf
+Screen Shot 2017-09-24 at 4.21.14 PM.png					emails
+Screen Shot 2017-09-27 at 1.09.50 PM.png					fabulous_foamcore.pdf
+Screen Shot 2017-09-27 at 2.06.24 PM.png					hw1.pdf
+Screen Shot 2017-09-27 at 2.06.51 PM.png					racket-6.10.1-x86_64-macosx.dmg
+Screen Shot 2017-09-27 at 5.17.56 PM.png					tutorial1.html
+Screen Shot 2017-09-27 at 5.52.59 PM.png					workspace
+dhcp-10-105-103-103:Desktop dakersnar$ mkdir ASG
+dhcp-10-105-103-103:Desktop dakersnar$ cd ASG
+dhcp-10-105-103-103:ASG dakersnar$ pwd
+/Users/dakersnar/Desktop/ASG
+dhcp-10-105-103-103:ASG dakersnar$ touch
+usage:
+touch [-A [-][[hh]mm]SS] [-acfhm] [-r file] [-t [[CC]YY]MMDDhhmm[.SS]] file ...
+dhcp-10-105-103-103:ASG dakersnar$ touch example.txt
+dhcp-10-105-103-103:ASG dakersnar$ ls
+example.txt
+dhcp-10-105-103-103:ASG dakersnar$ emacs example.txt
+dhcp-10-105-103-103:ASG dakersnar$ GIT
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Find by binary search the change that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Forward-port local commits to the updated upstream head
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+dhcp-10-105-103-103:ASG dakersnar$ gut
+-bash: gut: command not found
+dhcp-10-105-103-103:ASG dakersnar$ git
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Find by binary search the change that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Forward-port local commits to the updated upstream head
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+dhcp-10-105-103-103:ASG dakersnar$ git -v
+Unknown option: -v
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+dhcp-10-105-103-103:ASG dakersnar$ git --version
+git version 2.5.4 (Apple Git-61)
+dhcp-10-105-103-103:ASG dakersnar$ git init
+Initialized empty Git repository in /Users/dakersnar/Desktop/ASG/.git/
+dhcp-10-105-103-103:ASG dakersnar$ git add example.txt
+dhcp-10-105-103-103:ASG dakersnar$ git commit -m "First commit to ASG"
+[master (root-commit) fc96443] First commit to ASG
+ Committer: Drew Kersnar <dakersnar@dhcp-10-105-103-103.wireless.northwestern.private>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 example.txt
+dhcp-10-105-103-103:ASG dakersnar$ git remote add origin https://github.com/dakersnar/ASG.git
+dhcp-10-105-103-103:ASG dakersnar$ git remote -v
+origin	https://github.com/dakersnar/ASG.git (fetch)
+origin	https://github.com/dakersnar/ASG.git (push)
+dhcp-10-105-103-103:ASG dakersnar$ git push origin master
+Username for 'https://github.com': dakersnar
+Password for 'https://dakersnar@github.com': 
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 264 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/dakersnar/ASG.git
+ * [new branch]      master -> master
+dhcp-10-105-103-103:ASG dakersnar$ git branch -av
+* master                fc96443 First commit to ASG
+  remotes/origin/master fc96443 First commit to ASG
+dhcp-10-105-103-103:ASG dakersnar$ git push --all --set-upstream origin
+Branch master set up to track remote branch master from origin.
+Everything up-to-date
+dhcp-10-105-103-103:ASG dakersnar$ git branch wip-drew
+dhcp-10-105-103-103:ASG dakersnar$ got branch -av
+-bash: got: command not found
+dhcp-10-105-103-103:ASG dakersnar$ git branch -av
+* master                fc96443 First commit to ASG
+  wip-drew              fc96443 First commit to ASG
+  remotes/origin/master fc96443 First commit to ASG
+dhcp-10-105-103-103:ASG dakersnar$ git checkout wip-drew
+Switched to branch 'wip-drew'
+dhcp-10-105-103-103:ASG dakersnar$ emacs text
+dhcp-10-105-103-103:ASG dakersnar$ emacs example.txt
+dhcp-10-105-103-103:ASG dakersnar$ git add example.txt
+dhcp-10-105-103-103:ASG dakersnar$ git commit -m "edited example.txt"
+[wip-drew 9081ef3] edited example.txt
+ Committer: Drew Kersnar <dakersnar@dhcp-10-105-103-103.wireless.northwestern.private>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+dhcp-10-105-103-103:ASG dakersnar$ git push origin master
+Everything up-to-date
+dhcp-10-105-103-103:ASG dakersnar$ git fetch origin master
+From https://github.com/dakersnar/ASG
+ * branch            master     -> FETCH_HEAD
+dhcp-10-105-103-103:ASG dakersnar$ git merge master
+Already up-to-date.
+dhcp-10-105-103-103:ASG dakersnar$ git push origin wip-drew:master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 311 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/dakersnar/ASG.git
+   fc96443..9081ef3  wip-drew -> master
+dhcp-10-105-103-103:ASG dakersnar$ 
