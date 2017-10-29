@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+}
+
+section#resources>div {
+    display: inline-block;
+    padding: 2.5em 3.75em;
+    vertical-align: top;
+}
+
+section#resources>div:first-child {
+    width: 12.5em;
+}
+
+section#resources>div:first-child div a {
+    display: block;
+    text-decoration: none;
+}
+
+section#resources>div:last-child {
+    width: calc(100% - 23.75em);
+    height: calc(100vh - 5em);
+    padding-left: 0;
+    overflow-y: auto;
+}
+
+section#resources>div:last-child div div {
+    height: 25em;
+    background-color: #ddd;
+}
